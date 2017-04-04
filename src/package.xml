@@ -4,6 +4,7 @@
         <members>TestDataFile</members>
         <members>JPathMap</members>
         <members>JPathParser</members>
+        <members>JPathTree</members>
         <members>AppException</members>
         <name>ApexClass</name>
     </types>
